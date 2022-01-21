@@ -21,3 +21,4 @@ jobs:
           script: |
             cd JosephineP388T
             git pull
+            cp ./* ../../pub/
